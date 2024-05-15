@@ -106,7 +106,7 @@ mysqli_close($conn);
             android:layout_centerVertical="true"
             android:scaleType="fitXY"
             android:src="@drawable/ic_launcher_foreground"
-            app:tint="@color/white" />
+           />
     </RelativeLayout>
 </androidx.cardview.widget.CardView>
 ```
